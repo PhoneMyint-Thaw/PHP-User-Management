@@ -1,0 +1,16 @@
+{
+    "name": "phyuphway/app",
+    "authors": [
+        {
+            "name": "Phone Myint Thaw",
+            "email": "pthaw423@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "classes/Libs",
+            "Helpers\\": "classes/Helpers"
+        }
+    }
+}
